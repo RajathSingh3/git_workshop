@@ -1,4 +1,4 @@
 This is the sample file
 This is the second line
 ctrl + shift + G opens the source control
-This change is in branch feature
+This change is in branch feature. Done correctly now.
